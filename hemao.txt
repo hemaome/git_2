@@ -2,3 +2,4 @@ new add file :heamo.txxt
 creat a new branch is so easy
 both from master
 both confict from dev
+fix 101 bug
